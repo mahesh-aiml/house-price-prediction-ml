@@ -304,7 +304,7 @@ Being upfront about what could be improved:
 
 **[Mahesh Lohar]**
 
-- LinkedIn: [your-profile](www.linkedin.com/in/mahesh2211)
+- LinkedIn: [www.linkedin.com/in/mahesh2211]
 
 ---
 
